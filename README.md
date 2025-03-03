@@ -1,6 +1,9 @@
 # Hand-Tracking-with-MediaPipe-and-GIF-Output
 This repository contains a Python script that uses MediaPipe to perform real-time hand tracking via a webcam and saves the output as a GIF. The script leverages OpenCV for video capture and ImageIO for GIF creation, making it a lightweight solution for visualizing hand movements.
 
+![hand_tracking_output1](https://github.com/user-attachments/assets/427c030b-77f5-4fa2-bb74-9d54bef3e8d6)
+
+
 # Features
 - Detects and tracks hands in real-time using MediaPipe’s Hands solution.
 
