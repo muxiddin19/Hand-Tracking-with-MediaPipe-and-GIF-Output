@@ -178,7 +178,7 @@ Feel free to fork this repo, submit issues, or send pull requests to improve fun
 This project is licensed under the MIT License. See LICENSE for details.
 # Acknowledgments
 Built with MediaPipe by Google.
-``bash
+```bash
 https://mediapipe.readthedocs.io/en/latest/solutions/hands.html
 ```
 
