@@ -62,8 +62,7 @@ ls /dev/video*
 - Expected output: /dev/video0, /dev/video1, etc.
 
 - Fix permissions if needed:
-  ```bash
-
+```bash
 sudo chmod 666 /dev/video0
 sudo chmod 666 /dev/video1
 ```
