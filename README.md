@@ -154,7 +154,7 @@ cv2.destroyAllWindows()
 -- Ensure your webcam is connected and not in use by another app (lsof /dev/video0).
 
 -- Test camera indices:
--- ```python
+```python
 import cv2
 for i in range(3):
     cap = cv2.VideoCapture(i)
