@@ -26,7 +26,7 @@ This repository contains a Python script that uses MediaPipe to perform real-tim
 # Installation
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hand-tracking-gif.git
+git clone gh repo clone muxiddin19/Hand-Tracking-with-MediaPipe-and-GIF-Output
 cd hand-tracking-gif
 ```
 ## 2. Set Up a Conda Environment
